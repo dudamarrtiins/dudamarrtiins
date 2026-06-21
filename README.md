@@ -13,8 +13,8 @@
 ## 🚀 O que estou fazendo agora:
 
 -   Estudando Desenvolvimento de Sistemas 
--   Aprimorando meus conhecimentos em **Lógica de Programação** com Python.
--   Começando a explorar JavaScript
+-   Aprimorando meus conhecimentos em **Lógica de Programação** com **Python**.
+-   Começando a explorar **JavaScript**
 
 
 ---
@@ -43,9 +43,13 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudamarrtiins&layout=compact&theme=tokyonight&locale=pt-br" />
 </p>
 
-
-
 ---
+
+## 📁 Projetos em Destaque
+
+Aqui estão alguns dos meus principais projetos que desenvolvi para aplicar meus conhecimentos.
+
+*   💻 **[BankPython](https://github.com/TiagoGomesC/ProjetoGestaoBancaria):Neste repositorio está o código fonte de um sistema báncarico basico totalmente em formato CLI, além da documentação do projeto.
 
 ## 📊 Minhas atividades
 
