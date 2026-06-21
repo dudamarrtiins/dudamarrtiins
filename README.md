@@ -49,7 +49,7 @@
 
 Aqui estão alguns dos meus principais projetos que desenvolvi para aplicar meus conhecimentos.
 
-*   💻 [BankPython](https://github.com/TiagoGomesC/ProjetoGestaoBancaria):
+*   💻 [BankPython](https://github.com/dudamarrtiins/ProjetoGestaoBancaria):
   Neste repositorio está o código fonte de um sistema báncarico basico totalmente em formato CLI, além da documentação do projeto.
 
 ## 📊 Minhas atividades
