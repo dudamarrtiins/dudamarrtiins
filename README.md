@@ -14,7 +14,7 @@
 
 -   Estudando Desenvolvimento de Sistemas 
 -   Aprimorando meus conhecimentos em **Lógica de Programação** com **Python**.
--   Começando a explorar **JavaScript**
+-   Começando a explorar **PHP** e **HTML**
 
 
 ---
@@ -45,9 +45,9 @@
 
 ---
 
-## 📁 Projetos em Destaque
+## 📁 Projeto em Destaque
 
-Aqui estão alguns dos meus principais projetos que desenvolvi para aplicar meus conhecimentos.
+Aqui esta alguns um dos meus principais projetos que desenvolvi para aplicar meus conhecimentos:
 
 *   💻 [BankPython](https://github.com/dudamarrtiins/ProjetoGestaoBancaria):
   Neste repositorio está o código fonte de um sistema báncarico basico totalmente em formato CLI, além da documentação do projeto.
