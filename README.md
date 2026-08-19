@@ -53,8 +53,6 @@ Aqui esta alguns um dos meus principais projetos que desenvolvi para aplicar meu
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=dudamarrtiins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dudamarrtiins&theme=tokyonight&locale=pt-br" alt="GitHub Streak Stats" />
-</p>
-
+ 
 ---
 
